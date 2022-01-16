@@ -9,7 +9,7 @@ body {
     text-align: center;
     
     margin:5px;
-    background-color:blue;
+    background-color:red;
 }
 
 .top {
@@ -63,6 +63,7 @@ body {
     text-align: justify;
     text-align: center;
     height: 30px;
+    font-size:10px;
 }
 
 .menu-area {
