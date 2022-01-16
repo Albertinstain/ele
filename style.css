@@ -2,7 +2,9 @@ body {
     margin: 0px;
     padding: 0px;
 }
-
+td {
+display:inline;
+}
 .full-website {
     margin: 10px;
     text-align: center;
