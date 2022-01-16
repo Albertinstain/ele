@@ -9,7 +9,7 @@ body {
     text-align: center;
     
     margin:5px;
-    background-color:red;
+    background-color:blue;
 }
 
 .top {
@@ -63,20 +63,11 @@ body {
     text-align: justify;
     text-align: center;
     height: 30px;
-    font-size:10px;
+    font-size:90%;
 }
 
-.menu-area {
-    /* margin:px; */
-    text-align: center;
-    font-size: 15px;
-   
-}
 
-.menu-area p {
-    display: inline;
-    /*  width: 80%; */
-}
+
 
 .body-area {
     text-align: center;
