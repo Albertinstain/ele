@@ -2,9 +2,7 @@ body {
     margin: 0px;
     padding: 0px;
 }
-td {
-display:inline;
-}
+
 .full-website {
     margin: 10px;
     text-align: center;
@@ -80,7 +78,7 @@ display:inline;
 }
 
 .body-area img {
-    width: 100%;
+    width: 10px;
     height: auto;
 }
 
